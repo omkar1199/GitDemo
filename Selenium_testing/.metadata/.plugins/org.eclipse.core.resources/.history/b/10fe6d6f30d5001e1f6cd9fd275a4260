@@ -15,11 +15,6 @@ public class MyClass {
 		System.out.println(m);
 		System.out.println(m);
 		System.out.println(m);
-		System.out.println(m);
-		System.out.println(m);
-		System.out.println(m);
-		
-		
 		String[] splittedstring = s.split(" ");
 		System.out.println(splittedstring[0]);
 		System.out.println(splittedstring[1]);
