@@ -1,0 +1,15 @@
+package Dropdownhandling;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Flightbooking {
+
+	public static void main(String[] args) {
+		System.setProperty("Wbdriver.chrome.driver","C:\\Users\\Omkar Sawant\\Desktop\\BD\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
+
+	}
+
+}

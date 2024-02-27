@@ -12,6 +12,9 @@ public class MyClass {
 		String s = "Omkar Subhash Sawant";
 		String m = "Omkar sawant";
 		System.out.println(m);
+		System.out.println(m);
+		System.out.println(m);
+		System.out.println(m);
 		String[] splittedstring = s.split(" ");
 		System.out.println(splittedstring[0]);
 		System.out.println(splittedstring[1]);

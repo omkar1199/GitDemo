@@ -1,0 +1,14 @@
+
+public class mycalss {
+	
+	static void myname(String fname) {
+		System.out.println(fname + "Omkar sawant");
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		myname("omkar");
+
+	}
+
+}

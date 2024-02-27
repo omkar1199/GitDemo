@@ -1,0 +1,15 @@
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class demo_class {
+
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver","C:\\browserdriver\\chromedriver.exe");
+		
+		ChromeDriver driver = new ChromeDriver();
+		
+		driver.get("https://www.scientecheasy.com/2020/07/write-script-in-selenium-webdriver.html/");
+
+	}
+
+}
